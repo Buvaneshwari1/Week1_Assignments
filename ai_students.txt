@@ -1,0 +1,6 @@
+Name,Marks,Grade
+Anu,85,A
+Ravi,72,C
+Meera,90,A
+Kiran,65,D
+Sita,80,B
